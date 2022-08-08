@@ -1,0 +1,4 @@
+virtualenv/
+db.sqlite3
+*.pyc
+lol.txt
